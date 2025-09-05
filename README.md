@@ -33,7 +33,8 @@ A modern and stylish **landing page** for **Sora**, a women’s shopping website
 
 ## 📸 Preview  
 
-[Preview](assets/screenshot1.png)
+![Sora Landing Page](assets/screenshot1.png)
+![Sora Landing Page](assets/screenshot2.png)
 
 
 ---
