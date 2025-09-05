@@ -5,7 +5,7 @@ A modern and stylish **landing page** for **Sora**, a women’s shopping website
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Website] 
+🔗[Click here to view the site]() 
 
 ---
 
