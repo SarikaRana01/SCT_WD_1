@@ -5,7 +5,7 @@ A modern and stylish **landing page** for **Sora**, a women’s shopping website
 ---
 
 ## 🚀 Live Demo  
-🔗[Click here to view the site]() 
+🔗[Click here to view the site]( https://sarikarana01.github.io/SCT_WD_1/) 
 
 ---
 
